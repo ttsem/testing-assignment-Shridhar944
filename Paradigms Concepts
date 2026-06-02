@@ -1,0 +1,8 @@
+1) OOP
+2) Interface-Based Design
+3) Dependency Inversion Principles (SOLID)
+    - High level modules depend on abstractions. 
+4) Single responsiblity principle
+5) Separation on concerns
+6) Test-Driven Friendly
+7) Immutable record type
